@@ -39,6 +39,7 @@ Currently, I am pursuing a degree in Computer Science at Descomplica, constantly
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
   
 ### Studying in this moment:
+![GO](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)&nbsp; 
 ![JAVA](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp; 
 ![Springboot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
