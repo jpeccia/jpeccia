@@ -7,13 +7,19 @@
 
 ### About me 
 
-From an early age, I have always been fascinated by technology, exploring small projects in .lua and Java.
+I am a Full Stack Developer specialized in Java and Spring Framework (Spring Boot, Spring Data...) with knowledge in TypeScript, React.js, Golang, and C.
 
-However, my first in-depth contact with the field came during the technical course in Electronics at IFSP in Sertãozinho, where I developed an interactive chess project using Arduino as part of my final thesis.
+My first contact with Java was in 2013, when I started experimenting and "editing" existing code for fun. 
 
-During the course, I also had the opportunity to become a programming tutor, which allowed me not only to expand my knowledge but also to help other students by teaching C and Java, as well as working on some robotics projects.
+Since 2022, I’ve been refining my skills by working on projects and taking courses. During my technical electronics course, leveraging my experience as a programming tutor, I initiated an interactive Chess project using Arduino as a final project. From early on, I’ve applied a methodology of understanding problems and creating solutions for them. 
 
-Currently, I am pursuing a degree in Computer Science at Descomplica, constantly challenging myself with new projects and courses to enhance my skills. My focus is on back-end development, with experience in Java, and I am seeking opportunities that allow me to contribute and continue growing in the field.
+As a programming tutor, I taught C and Java to over 80 students in Automation and Electrical Engineering courses.
+
+Currently, I’m continuing to develop as a Full Stack professional while exploring new areas like Cybersecurity and DevOps, because I believe it’s essential to handle all types of challenges. I have extensive knowledge in backend development with REST APIs and microservices. I am proficient in tools like Docker and AWS and am pursuing a degree in Computer Science, which I expect to complete in 2026.
+
+I frequently study and add new projects to my GitHub, always thinking creatively and exploring different approaches to solving problems.
+
+I believe a developer should be more than a problem-solver; they should learn to enjoy these challenges to bring the best solutions. My priority is to fully understand the request, identify the pain points, discover the dream solution, and analyze what has been tried so far. With this understanding, I aim to deliver the best solution.
 
 ### Main skills:
 
