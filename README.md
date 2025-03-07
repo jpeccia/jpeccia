@@ -1,10 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=451776&height=120&section=header"/>
 
-<div><h1 align="center">Pare de lutar por um código vázio: ARISE </h1><div align="center" valign="top"><br>
-      <img align="center" alt="ARISE" height="200" width="140" src="https://preview.redd.it/h52zdnrr55w71.png?width=640&crop=smart&auto=webp&s=51e0d8f4df0225760cd4f917ddf41c95a9f27d76">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=451776&size=35&center=true&vCenter=true&width=1000&lines=Hello!,+My+name+is+João+Otávio+Peccia;I'm+21+years+old;I+am+from+Dumont,+SP;Be+Welcome!+;ARISE!:%29)](https://git.io/typing-svg) 
-
 ### About me 
 
 I am a Full Stack Developer specialized in Java and Spring Framework (Spring Boot, Spring Data...) with knowledge in TypeScript, React.js, Golang, and C.
