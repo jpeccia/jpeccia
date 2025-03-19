@@ -1,12 +1,14 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=451776&height=120&section=header"/>
 
-### About me 
+# Hello there, stranger
 
-I am a Full Stack Developer specialized in Java and Spring Framework (Spring Boot, Spring Data...) with knowledge in TypeScript, React.js, Golang, and C.
+I don't really know how you landed here, but I will try to show a little bit about myself for you. ;)
 
-My first contact with Java was in 2013, when I started experimenting and "editing" existing code for fun. 
+## About
 
-Since 2022, I’ve been refining my skills by working on projects and taking courses. During my technical electronics course, leveraging my experience as a programming tutor, I initiated an interactive Chess project using Arduino as a final project. From early on, I’ve applied a methodology of understanding problems and creating solutions for them. 
+I am a Software Engineer. My first contact with Tech World was in 2013, when i started modifying codes for fun in Java(Minecraft Server Files) and Lua(MTA scripts)
+
+In 2022, During my technical electronics course, leveraging my experience as a programming tutor, I initiated an interactive Chess project using Arduino as a final project. From early on, I’ve applied a methodology of understanding problems and creating solutions for them. 
 
 As a programming tutor, I taught C and Java to over 80 students in Automation and Electrical Engineering courses.
 
@@ -15,6 +17,16 @@ Currently, I’m continuing to develop as a Full Stack professional while explor
 I frequently study and add new projects to my GitHub, always thinking creatively and exploring different approaches to solving problems.
 
 I believe a developer should be more than a problem-solver; they should learn to enjoy these challenges to bring the best solutions. My priority is to fully understand the request, identify the pain points, discover the dream solution, and analyze what has been tried so far. With this understanding, I aim to deliver the best solution.
+
+### Detailed information
+
+* **Name:** João Otávio Peccia
+
+* **Age:** 21
+
+* **Living in:** Dumont - SP
+
+* **University:** Computer Science Descomplica Faculdade Digital(2026)
 
 ### Skills:
 
@@ -47,9 +59,6 @@ I believe a developer should be more than a problem-solver; they should learn to
 ![GO](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)&nbsp; 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jpeccia&label=Profile%20views&color=0e75b6&style=flat" alt="jpeccia" /> </p>
-
-
 ### Contact-me 
 
 <p align=>
@@ -62,4 +71,7 @@ I believe a developer should be more than a problem-solver; they should learn to
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=451776&height=120&section=footer"/>
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=jpeccia&label=Profile%20views&color=0e75b6&style=flat" alt="jpeccia" /> </p>
+
 
