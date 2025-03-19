@@ -47,13 +47,6 @@ I believe a developer should be more than a problem-solver; they should learn to
 ![GO](https://img.shields.io/badge/Go-00ADD8?logo=Go&logoColor=white&style=for-the-badge)&nbsp; 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jpeccia&show_icons=true&count_private=true&hide_border=true&title_color=ac6ee6&icon_color=00bfbf&text_color=ac6ee6&bg_color=0d1117" alt="João Otávio Peccia github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpeccia&layout=compact&hide_border=true&title_color=aac6ee6&text_color=ac6ee6&bg_color=0d1117" />
-</div>
-
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jpeccia&label=Profile%20views&color=0e75b6&style=flat" alt="jpeccia" /> </p>
 
 
