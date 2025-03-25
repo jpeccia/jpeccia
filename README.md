@@ -14,8 +14,6 @@ As a programming tutor, I taught C and Java to over 80 students in Automation an
 
 Currently, I’m continuing to develop as a Full Stack professional while exploring new areas like Cybersecurity and DevOps, because I believe it’s essential to handle all types of challenges. I have extensive knowledge in backend development with REST APIs and microservices. I am proficient in tools like Docker and AWS and am pursuing a degree in Computer Science, which I expect to complete in 2026.
 
-I frequently study and add new projects to my GitHub, always thinking creatively and exploring different approaches to solving problems.
-
 I believe a developer should be more than a problem-solver; they should learn to enjoy these challenges to bring the best solutions. My priority is to fully understand the request, identify the pain points, discover the dream solution, and analyze what has been tried so far. With this understanding, I aim to deliver the best solution.
 
 ### Detailed information
