@@ -8,7 +8,7 @@ I don't really know how you landed here, but I will try to show a little bit abo
 
 I am a Software Engineer. My first contact with Tech World was in 2013, when i started modifying codes for fun in Java(Minecraft Server Files) and Lua(MTA scripts)
 
-In 2022, During my technical electronics course, leveraging my experience as a programming tutor, I initiated an interactive Chess project using Arduino as a final project. From early on, I’ve applied a methodology of understanding problems and creating solutions for them. 
+In 2021, During my technical electronics course, leveraging my experience as a programming tutor, I initiated an interactive Chess project using Arduino as a final project. From early on, I’ve applied a methodology of understanding problems and creating solutions for them. 
 
 As a programming tutor, I taught C and Java to over 80 students in Automation and Electrical Engineering courses.
 
